@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido como parte de uma iniciativa acadêmica na universidade. Ele apresenta interatividade com o usuário e explora conceitos introdutórios de machine learning e programação de inteligência artificial.
